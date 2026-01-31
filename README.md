@@ -1,5 +1,9 @@
 # Car-Price-Prediction# 🚗 Car Price Prediction - Interface Streamlit
-<img width="1920" height="1080" alt="Capture d’écran (252)" src="https://github.com/user-attachments/assets/8f757972-5fed-4bd6-8c2c-4d432b14b2d9" />
+<img width="1920" height="918" alt="Capture d’écran (252)" src="https://github.com/user-attachments/assets/279f5e6c-730c-4517-baf0-df1042ad4d93" />
+
+<img width="1920" height="908" alt="Capture d’écran (253)" src="https://github.com/user-attachments/assets/d91b9247-308b-4270-b4e1-30d57941a1ee" />
+
+
 
 
 Application web élégante pour prédire le prix de vente des voitures basée sur un modèle de Machine Learning.
